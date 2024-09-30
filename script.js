@@ -67,7 +67,8 @@ var game = [
   'https://play.js13kgames.com/the-wandering-wraith/',
   'https://js13kgames.com/games/the-matr13k',
   'https://js13kgames.com/games/spacecraft',
-  'https://js13kgames.com/games/re-wire'
+  'https://js13kgames.com/games/re-wire',
+  'https://gazijarin.github.io/AdamAI/'
 ]
 
 // call the random game
